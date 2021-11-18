@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hlw! This is Bijon Mallik. Thanks for visiting my github. Nice to meet you! 👋
 
 
 - 🔭 I’m currently working on ...
