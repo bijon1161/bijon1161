@@ -1,4 +1,4 @@
-## Hlw! This is Bijon Mallik. Thanks for visiting my website. Nice to meet you! 👋
+# Hlw! This is Bijon Mallik. Thanks for visiting. Nice to meet you! 👋
 
 
 - 🔭 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠: (part-time) Full Stack Web Developer
