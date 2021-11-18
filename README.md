@@ -9,4 +9,4 @@
 - 😄 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐛𝐞𝐭𝐭𝐞𝐫 𝐰𝐢𝐭𝐡: MERN
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
