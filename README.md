@@ -1,9 +1,9 @@
 ### Hlw! This is Bijon Mallik. Thanks for visiting my github. Nice to meet you! 👋
 
 
-- 🔭 Currently working as a Full Stack Web Developer
-- 🌱 Currently learning: node.js
-- 👯 Looking to collaborate with: Backend Developer 
-- 💬 Ask me about: Anything Tech Related
-- 📫 Reach me through Instagram: ibijon.17
-- 😄 Getting better with: MERN
+- 🔭 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠: as a part-time Full Stack Web Developer
+- 🌱 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠: node.js
+- 👯 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐰𝐢𝐭𝐡: Backend Developer 
+- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭: Anything Tech Related
+- 📫 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: ibijon.17
+- 😄 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐛𝐞𝐭𝐭𝐞𝐫 𝐰𝐢𝐭𝐡: MERN
