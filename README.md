@@ -7,3 +7,4 @@
 - 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭: Anything Tech Related
 - 📫 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: ibijon.17
 - 😄 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐛𝐞𝐭𝐭𝐞𝐫 𝐰𝐢𝐭𝐡: MERN
+<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
