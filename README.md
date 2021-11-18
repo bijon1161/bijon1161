@@ -1,7 +1,7 @@
 ### Hlw! This is Bijon Mallik. Thanks for visiting my github. Nice to meet you! 👋
 
 
-- 🔭 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠: as a part-time Full Stack Web Developer
+- 🔭 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠: (part-time) Full Stack Web Developer
 - 🌱 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠: node.js
 - 👯 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐰𝐢𝐭𝐡: Backend Developer 
 - 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭: Anything Tech Related
