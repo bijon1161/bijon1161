@@ -18,8 +18,8 @@
 
 > Full Stack Developer (working part time) <br/>
 > Undergraduate student @ PUST <br/>
-> OpenSource Enthusiast
-> I love to develop Web applications. Have sheer interest on machine learning. I'm an ENFJ-T. I love talking about things i am passionate about which is mostly anything interesting.
+> OpenSource Enthusiast <br/>
+I love to develop Web applications. Have sheer interest on machine learning. I'm an ENFJ-T. I love talking about things I am passionate about which is mostly anything interesting.
 
 ### Things you should know
 
