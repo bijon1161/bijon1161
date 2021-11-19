@@ -18,8 +18,8 @@
 
 > Full Stack Developer (working part time) <br/>
 > Undergraduate student @ PUST <br/>
-> OpenSource enthusiast, iOS development enthusiast
-I love to develop iOS applications using swift . Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an ENTP-A. I love talking about things i am passionate about which is mostly anything interesting
+> OpenSource enthusiast
+I love to develop Web applications. Have sheer interest on machine learning. I'm an ENFJ-T. I love talking about things i am passionate about which is mostly anything interesting.
 
 ### Things you should know
 
