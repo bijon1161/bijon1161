@@ -2,7 +2,7 @@
 
 
 - 🔭 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠: (part-time) Full Stack Web Developer
-- 🌱 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠: node.js
+- 🌱 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠: openCV
 - 👯 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐰𝐢𝐭𝐡: Backend Developer 
 - 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭: Anything Tech Related
 - 📫 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: ibijon.17
@@ -24,8 +24,8 @@ I love to develop Web applications. Have sheer interest on machine learning. I'm
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> Node.js
-- 🌱 <b>Getting better at:</b> Web Dev , Laravel
+- 🔭 <b>Currently working on:</b> OpenCV-Python, CV Zone
+- 🌱 <b>Getting better at:</b> Web Dev , Node.js
 - 🤔 <b>Exploring:</b> MERN
 - ⚗️ <b>Experimenting on:</b> Design Patterns
 - 💬 <b>Ask me about:</b> Anything Tech Related
