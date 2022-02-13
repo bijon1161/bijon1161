@@ -24,7 +24,7 @@ I love to develop Web applications. Have sheer interest on machine learning. I'm
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> OpenCV-Python, CV Zone
+- 🔭 <b>Currently working on:</b> OpenCV , ML
 - 🌱 <b>Getting better at:</b> Web Dev , Node.js
 - 🤔 <b>Exploring:</b> MERN
 - ⚗️ <b>Experimenting on:</b> Design Patterns
