@@ -17,10 +17,10 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/bijon1161/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:bijon.ndc.pust@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-> Full Stack Developer (working part time) <br/>
+> Full Stack Developer  <br/>
 > Undergraduate student @ PUST <br/>
 > OpenSource Enthusiast <br/>
-I love to develop Web applications. Have sheer interest on machine learning. I'm an ENFJ-T. I love talking about things I am passionate about which is mostly anything interesting.
+I love to develop Web applications. Have sheer interest on machine learning. I'm an ENFJ-T. I love talking about things I am passionate about which is mostly anything tech related & music.
 
 ### Things you should know
 
