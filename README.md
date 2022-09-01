@@ -37,7 +37,7 @@ I love to develop Web applications. Have sheer interest on machine learning. I'm
   "languages": [ "Python","JavaScript","PHP","Java","C++" ],
   "frameworks/libraries": {
     "backend": ["Nodejs",,"Laravel"],
-    "frontend": ["JQuery","React","Angular"],
+    "frontend": ["React","JQuery","Angular"],
     
   },
   "database":  ["SQL","MongoDB"],
