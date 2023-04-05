@@ -53,7 +53,7 @@ I love to develop Web applications. Have sheer interest on machine learning. I'm
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijon1161&hide_border=false&theme=react&background=0d1117" width="55%" />
    
-   <img src="https://activity-graph.herokuapp.com/graph?username=bijon1161&theme=react-dark" width="100%"/>
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=bijon1161&theme=react-dark" width="100%"/> -->
 
 #### Happy coding!
 
