@@ -7,8 +7,9 @@
 - 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭: Anything Tech Related
 - 📫 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: ibijon.17
 - 😄 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐛𝐞𝐭𝐭𝐞𝐫 𝐰𝐢𝐭𝐡: MERN
--->
+
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=bijon1161&&show_icons=true&theme=tokyonight&count_private=true" alt="Bijon's Github Stats"/>](https://github.com/bijon1161)
+-->
 
 # Hello, I am Bijon Mallik! Nice to meet you😄
 
