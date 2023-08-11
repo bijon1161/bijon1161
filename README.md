@@ -23,18 +23,19 @@
 
 
 
-> Full Stack Developer  <br/>
-> Undergraduate student @ PUST <br/>
+> Lecturer, Department of CSE | BUBT  <br/>
+> MSc in CSE | BUET <br/>
+> Former Full Stack Developer  <br/>
 > OpenSource Enthusiast <br/>
-I love to develop Web applications. Have sheer interest on machine learning. I'm an ENFJ-T. I love talking about things I am passionate about which is mostly anything tech related & music.
+Researcher, fond of teaching and learning new things. Love to develop Web applications and have sheer interest on machine learning. I'm an ENFJ-T. I love talking about things I am passionate about which is mostly anything tech related & music.
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> OpenCV , ML ,Tensorflow
+- 🔭 <b>Currently working on:</b> Pattern Recognition
 - 🌱 <b>Getting better at:</b> Web Dev , Node.js
-- 🤔 <b>Exploring:</b> MERN
+- 🤔 <b>Explored:</b> MERN
 - ⚗️ <b>Experimenting on:</b> Design Patterns
-- 💬 <b>Ask me about:</b> Anything Tech Related
+- 💬 <b>Ask me about:</b> Tech, Music, Sports, Fitness
 
 ### My Stacks
 
